@@ -25,7 +25,7 @@ Write the correct SQL statement to delete a database named **myNewDB**.
 
 ## Creating tables
 
-Write the correct SQL statement to create a new table called **Users**, with an int field called **UserID**, and the following varchar fields of size 255: **LastName, FirstName, Address, City**
+Write the correct SQL statement to create a new table called **Users**, with an int field called **UserID**, and the following varchar fields of size *255*: **LastName, FirstName, Address, City**
 
 *(Add your query to the file exercise5.sql)*
 
@@ -50,15 +50,15 @@ Delete the column **Birthday** from the **Users** table.
 
 *(Add your query to the file exercise9.sql)*
   
-Add the varchar columns **MiddleName**, **NickName**, **Email**, **Suffix**, and **BadgeID** to the **Users** table, with size of 255, with the exception of **Suffix** which has a size of 64, using a single statement. 
+Add the varchar columns **MiddleName**, **NickName**, **Email**, **Suffix**, and **BadgeID** to the **Users** table, with size of *255*, with the exception of **Suffix** which has a size of *64*, using a single statement. 
 
 *(Add your query to the file exercise10.sql)*
 
-Delete the columns **NickName** and **Suffix** from the Users table, using a single statement.
+Delete the columns **NickName** and **Suffix** from the **Users** table, using a single statement.
 
 *(Add your query to the file exercise11.sql)*
 
-Rename the column **MiddleName** to **Initial** in the Users table, changing its size to 64.
+Rename the column **MiddleName** to **Initial** in the Users table, changing its size to *64*.
 
 *(Add your query to the file exercise12.sql)*
 
@@ -66,7 +66,7 @@ Rename the column **FirstName** to **First_Name** and **LastName** to **Last_Nam
 
 *(Add your query to the file exercise13.sql)*
 
-Write a query to display the columns and settings of the Users table.
+Write a query to display the columns and settings of the **Users** table.
 
 *(Add your query to the file exercise14.sql)*
 
@@ -105,7 +105,7 @@ Update the **City** column of all records in the **Students** table and set it t
 
 *(Add your query to the file exercise17.sql)*
  
-Update the **City** value and the **Country** value to "Edinburgh", "Scotland" in the **Students** table, for the Student whose ID is 35.
+Update the **City** value and the **Country** value to "Edinburgh", "Scotland" in the **Students** table, for the Student whose ID is *35*.
 
 *(Add your query to the file exercise18.sql)*
 
